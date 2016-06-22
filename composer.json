@@ -1,0 +1,7 @@
+{
+  "name" : "Sch",
+  "version" : "dev-master",
+  "autoload": {
+    "psr-4": {"Sch\\": "src/"}
+  }
+}
