@@ -3,5 +3,8 @@
   "version" : "dev-master",
   "autoload": {
     "psr-4": {"Sch\\": "src/"}
+  },
+  "require" : {
+    "opis/http": "^2.0.0"
   }
 }
